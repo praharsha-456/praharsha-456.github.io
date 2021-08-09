@@ -32,7 +32,7 @@ textarea{
     margin: 15px;
     transform: translateY(100%);
 }
-input[type=submit]{
+button{
     padding: 16px 24px;
     background-color: 
     #3333ff;
